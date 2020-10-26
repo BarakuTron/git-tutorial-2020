@@ -11,5 +11,10 @@ public class A
 		
 		}
 
+		public void doIt()
+		{
+			
+		}
+
 	}
 }
