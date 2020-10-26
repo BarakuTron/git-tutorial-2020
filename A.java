@@ -5,5 +5,10 @@ public class A
 		int nominator;
 		int denominator;
 
+		public void doIt()
+		{
+			
+		}
+
 	}
 }
