@@ -2,8 +2,8 @@ public class A
 {
 	public static void main(String[] args)
 	{
-		int x;
-		int y;
+		int nominator;
+		int denominator;
 
 	}
 }
